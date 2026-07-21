@@ -11,7 +11,7 @@ Product designer and creative technologist. I ship design systems, accessibility
 | **DevFlow AI** | Local-first agent IDE — tool calling, intent gating, eval suites, operator UX | [Case study](https://thaddeuskilo.design/work/devflow) |
 | **weableColor** | Color / contrast tooling — Figma plugin + VS Code extension (900+ installs) | [Case study](https://thaddeuskilo.design/work/weablecolor) · [weable.pro](https://weable.pro) |
 
-Most product source stays private. Public repos here are hire-facing showcases with architecture notes and live links. Happy to walk deeper code in interview.
+Product source for these stays private; the public repos here cover architecture notes and live links. Happy to go deeper in conversation.
 
 ### Background
 
