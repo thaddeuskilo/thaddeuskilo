@@ -9,6 +9,7 @@ Product designer and creative technologist. I ship design systems, accessibility
 | Project | What it is | Proof |
 |---------|------------|--------|
 | **DevFlow AI** | Local-first agent IDE — tool calling, intent gating, eval suites, operator UX | [Case study](https://thaddeuskilo.design/work/devflow) |
+| **Automation systems** | Shared JSON event contract across Zapier, Make, and n8n — lead, digest, packet | [Case study](https://thaddeuskilo.design/work/automation-systems) |
 | **weableColor** | Color / contrast tooling — Figma plugin + VS Code extension (900+ installs) | [Case study](https://thaddeuskilo.design/work/weablecolor) · [weable.pro](https://weable.pro) |
 
 Product source for these stays private; the public repos here cover architecture notes and live links. Happy to go deeper in conversation.
